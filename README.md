@@ -1,4 +1,4 @@
-# EEOB563 Spring2019 Course Repository
+# EEOB563 Spring2020 Course Repository
 
 This repository will be used throughout the semester to host the files and documents used in the course. 
 It is expected that you will pull all new changes to this directory at the beginning of each class so that 
@@ -24,13 +24,13 @@ cd ~/Documents/GitHub
 Now, you can clone the repository:
 
 ```
-git clone git@github.com:ISU-MolPhyl/EEOB563-Spring2019.git
+git clone git@github.com:ISU-MolPhyl/EEOB563-Spring2020.git
 ```
 
 Or you can use the HTTPS URL:
 
 ```
-git clone https://github.com/ISU-MolPhyl/EEOB563-Spring2019.git
+git clone https://github.com/ISU-MolPhyl/EEOB563-Spring2020.git
 ```
 
 Now you have access to all of the files currently in the repository.
