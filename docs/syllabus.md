@@ -63,8 +63,8 @@ This class follows the Iowa State University Dead Week guidelines as outlined in
 #### Harassment and Discrimination:  
 Iowa State University strives to maintain our campus as a place of work and study for faculty, staff, and students that is free of all forms of prohibited discrimination and harassment based upon race, ethnicity, sex (including sexual assault), pregnancy, color, religion, national origin, physical or mental disability, age, marital status, sexual orientation, gender identity, genetic information, or status as a U.S. veteran. Any student who has concerns about such behavior should contact his/her instructor, Student Assistance at 515-294-1020 or email [dso-sas@iastate.edu](mailto:dso-sas@iastate.edu), or the Office of Equal Opportunity and Compliance at 515-294-7612.
 
-####Religious Accommodation:  
+#### Religious Accommodation:  
 If an academic or work requirement conflicts with your religious practices and/or observances, you may request reasonable accommodations. Your request must be in writing, and your instructor or supervisor will review the request. You or your instructor may also seek assistance from the Dean of Students Office or the Office of Equal Opportunity and Compliance.
 
-####Contact Information:  
+#### Contact Information:  
 If you are experiencing, or have experienced, a problem with any of the above issues, email [academicissues@iastate.edu](mailto:academicissues@iastate.edu).
