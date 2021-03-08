@@ -1,0 +1,36 @@
+RAxML-NG v1.0.2 (c) 2021 The Exelixis Lab
+
+Installation requirements:
+ - CMake 3.0.2 or higher
+ - gcc 6.4.0 or higher
+
+To compile RAxML-NG, please run
+
+ ./install.sh 
+
+or type the following commands:
+
+ mkdir build && cd build
+ cmake ..
+ make
+
+Upon successful completion, `raxml-ng-mpi` binary will be created 
+in the 'bin' subdirectory.
+
+You can then check for available commands with:
+
+  cd bin/
+  ./raxml-ng-mpi -h
+
+For further info and updates, please visit: https://github.com/amkozlov/raxml-ng
+
+TROUBLESHOOTING
+
+ - in a cluster environment, you might need to load a corresponding module in order to 
+   configure CMake and/or compiler and/or MPI library properly, e.g.
+
+   module load cmake OpenMPI/2.1.2-GCC-6.4.0-2.28 
+
+ - if CMake fails to find the correct C++ compiler, you can give it a hint with:
+
+   CXX=mpicxx cmake ..
